@@ -1,5 +1,6 @@
 package io.azmain.polls.model;
 
+import io.azmain.polls.model.audit.DateAudit;
 import org.hibernate.annotations.NaturalId;
 import javax.persistence.*;
 import javax.validation.constraints.Email;

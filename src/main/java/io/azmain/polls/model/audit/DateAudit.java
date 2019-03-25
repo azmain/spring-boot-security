@@ -1,4 +1,4 @@
-package io.azmain.polls.model;
+package io.azmain.polls.model.audit;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import org.springframework.data.annotation.CreatedDate;
